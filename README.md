@@ -22,8 +22,8 @@ My Linkdin Profile
 
 ## My All Coding Plateform Link
 
-- [Leetcode](https://www.linkedin.com/in/subhash-yadav-1476a4196/) Solved over 200 Question on Leetcode
-- [GFG](https://www.linkedin.com/in/subhash-yadav-1476a4196/) Solved over 200 Question on GFG
+- [Leetcode](https://www.linkedin.com/in/subhash-yadav-1476a4196/) Solved over 350 Question on Leetcode
+- [GFG](https://www.linkedin.com/in/subhash-yadav-1476a4196/) Solved over 500 Question on GFG
 - [Codechef](https://www.linkedin.com/in/subhash-yadav-1476a4196/) 2 Star Coder On  
 - [HackerRank](https://www.linkedin.com/in/subhash-yadav-1476a4196/)  5 Star Coder in Problem Solving And CPP
 
